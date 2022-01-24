@@ -25,3 +25,5 @@ public class CircleWithGear {
         new  CircleWithGear();
     }
 }
+
+tests
